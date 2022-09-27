@@ -13,5 +13,4 @@ public interface ISignUp {
     public static IParams parse() throws Exception {
         return null;
     }
-    //第二次注释添加
 }
