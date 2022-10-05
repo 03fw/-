@@ -1,5 +1,5 @@
 package school;
-
+//sssssjjjj
 //报名入学接口
 public interface ISignUp {
     // 打印输出结果
